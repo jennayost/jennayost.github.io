@@ -49,9 +49,8 @@ h3 {
     font-style: normal;
 	text-transform: uppercase;
 	letter-spacing: 0.1em; /*Just an extra tracking for bold uppercase letters. Try 0.1em */
-    border-top: 2.5px solid rgb(255,131,0);
+    border-top: 2.5px solid rgb(255,131,0);  
 }
-
 
 ul {
 	margin: 0rem 1rem 1.5rem;
@@ -98,6 +97,9 @@ main{
     display: grid;
     padding: 2rem;
 }
+
+
+
 
 
 /*By the way, when we use the slash-asterisk combo, it’s a comment on the CSS and it’s meant for human beings. The machine knows it is not supposed to process anything until it finds a asterisk-slash combo that ends the comment on the CSS. */
