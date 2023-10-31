@@ -1,0 +1,53 @@
+/*CSS document*/
+
+body {
+    font-family: "effra", sans-serif;
+	font-weight: 400;
+	font-style: normal;
+    background-color: rgb(240, 240, 240)
+}
+
+div.container {
+    max-width: 40em;
+    margin: auto;
+    padding: 2em;
+}
+
+figure {
+    margin: 0;
+    padding-top: 1em;
+}
+
+img {
+    width: 100%;
+}
+
+ul {
+    list-style-type: none;
+    padding: 0;
+}
+
+h1{
+    width: 5em;
+}
+
+h2, h3{
+    color: rgb(165, 65, 25)
+}
+
+a{
+    text-decoration: none;
+    color:rgb(9, 43, 76)
+}
+
+p{
+    color: rgb(10, 10, 10);
+}
+
+section.mainstory{
+    padding-bottom: 2em;
+}
+
+section.imagestory{
+    padding-bottom: 1em;
+}
