@@ -31,8 +31,12 @@ h1{
     width: 5em;
 }
 
-h2, h3{
-    color: rgb(165, 65, 25)
+h2{
+    color:rgb(9, 43, 76)
+}
+
+h3{
+    font-size: x-large;
 }
 
 a{
