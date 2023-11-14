@@ -188,8 +188,8 @@ div.gallery figcaption{
 }
 
 div.gallery nav{
-    display: flex;
-    grid-template-columns: repeat(3, 1fr);
+    display: grid;
+    grid-template-columns: repeat(4, 1fr);
     grid-gap: 1em;
 }
 
