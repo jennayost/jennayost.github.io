@@ -231,8 +231,9 @@ section.personal-information ul li{
 
 section.personal-information ul li input[type="text"],
 section ul li input[type="email"],
+section ul li input[type="address"],
 section ul li select {
-	flex: 0.3 0 10em;
+	flex: 0 0 28em;
 	box-sizing: border-box;
 }
 
@@ -256,11 +257,6 @@ section.Submit{
     margin: 1em 0 2em 0;
 }
 
-ul.Name-and-Email{
-    list-style: none;
-    padding-left: 0;  
-}
-
 textarea{
     box-sizing: border-box;
     display: flex;
@@ -271,6 +267,7 @@ textarea{
 
 button{
     margin-top: 2em;
+    border-color: #4169ba
 }
 
 form.subscribe h2{
