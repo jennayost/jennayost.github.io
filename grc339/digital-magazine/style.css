@@ -4,7 +4,7 @@ body {
     font-family: "effra", sans-serif;
 	font-weight: 400;
 	font-style: normal;
-    background-color: #faf9f6;
+    background-color: rgb(249, 246, 238);
 }
 
 div.container {
@@ -33,6 +33,10 @@ nav ul li{
     margin-right: 1em;
 }
 
+nav a:hover {
+    color: rgb(10,10,10);
+}
+
 ul {
     list-style-type: none;
     padding: 0;
@@ -43,7 +47,7 @@ h1{
 }
 
 h2, h3{
-    color:#4169ba;
+    color: rgb(65, 105, 186);
     font-family: "termina", sans-serif;
 	font-weight: 600;
     font-size: large;
@@ -62,7 +66,7 @@ h4{
 
 a{
     text-decoration: none;
-    color:#4169ba;
+    color: rgb(65, 105, 186);
 }
 
 p{
@@ -81,13 +85,13 @@ section.tertiarystory{
     padding-bottom: 1em;
     border-bottom: 4px;
     border-bottom-style:solid;
-    border-color: #893c08;
+    border-color: rgb(137, 60, 8);
 }
 
 figcaption{
     font-size: small;
     font-style: italic;
-    color:#4169ba;
+    color: rgb(65, 105, 186);
 }
 
 
@@ -149,7 +153,7 @@ figcaption{
     }
     
     aside{
-        background-color: #fafafa;
+        background-color: rgb(249, 246, 238);
     }
 }
 
@@ -183,8 +187,9 @@ div.gallery figcaption{
     margin: .5em 0;
     font-family: "effra", sans-serif;
     font-weight: 300;
-    font-style: italic;    
     font-size: medium;
+    font-style: italic;
+    color: rgb(65, 105, 186);
 }
 
 div.gallery nav{
@@ -267,7 +272,7 @@ textarea{
 
 button{
     margin-top: 2em;
-    border-color: #4169ba
+    border-color: rgb(65, 105, 186);
 }
 
 form.subscribe h2{
