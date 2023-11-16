@@ -223,18 +223,18 @@ form.subscribe{
     grid-column: 1/4;
 }
 
-section.personal-information{
+section.Personal-Information{
 	padding-bottom: 2em;
     margin: 0;
 }
 
-section.personal-information ul li{
+section.Personal-Information ul li{
 	display: flex;
 	flex-wrap: wrap;
 	margin-bottom: 1em; 
 }
 
-section.personal-information ul li input[type="text"],
+section.Personal-Information ul li input[type="text"],
 section ul li input[type="email"],
 section ul li input[type="address"],
 section ul li select {
@@ -242,7 +242,7 @@ section ul li select {
 	box-sizing: border-box;
 }
 
-section.personal-information ul li label{
+section.Personal-Information ul li label{
     flex:  0 5em;
     font-family: effra;
     font-weight: 300;
