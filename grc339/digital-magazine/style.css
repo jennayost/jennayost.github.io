@@ -234,7 +234,7 @@ section.personal-information ul li{
 	margin-bottom: 1em; 
 }
 
-section.Personal-Information ul li input[type="text"],
+section.personal-information ul li input[type="text"],
 section ul li input[type="email"],
 section ul li input[type="address"],
 section ul li select {
@@ -242,7 +242,7 @@ section ul li select {
 	box-sizing: border-box;
 }
 
-section.Personal-Information ul li label{
+section.personal-information ul li label{
     flex:  0 5em;
     font-family: effra;
     font-weight: 300;
