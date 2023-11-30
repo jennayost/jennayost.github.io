@@ -160,7 +160,7 @@ figcaption{
     }
 
     h1{
-        background-image: url(mcmod-dark.png);
+        background-image: url("mcmod-dark.png");
         background-repeat: no-repeat;
         background-size: contain;
     }
