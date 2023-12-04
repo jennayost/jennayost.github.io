@@ -4,11 +4,12 @@ body {
     font-family: "effra", sans-serif;
 	font-weight: 400;
 	font-style: normal;
+    font-size: large;
     background-color: rgb(249, 246, 238);
 }
 
 div.container {
-    max-width: 60em;
+    max-width: 75em;
     margin: auto;
     padding: 2em 2em 0 2em;
 }
@@ -27,7 +28,7 @@ nav ul li{
     list-style-type: none;
     font-family: "termina", sans-serif;
 	font-weight: 600;
-    font-size: small;
+    font-size: large;
 	font-style: normal;
     display: inline;
     margin-right: 1em;
@@ -50,7 +51,7 @@ h2, h3{
     color: rgb(65, 105, 186);
     font-family: "termina", sans-serif;
 	font-weight: 600;
-    font-size: large;
+    font-size: 1.15em;
 	font-style: normal;
     margin-top: 1em;
 }
@@ -59,7 +60,7 @@ h4{
     color:rgb(10, 10, 10);
     font-family: "effra", sans-serif;
     font-weight: 600;
-    font-size: medium;
+    font-size: 2em;
 	font-style: normal;
     margin-top: 1em;
 }
@@ -89,7 +90,7 @@ section.tertiarystory{
 }
 
 figcaption{
-    font-size: small;
+    font-size: medium;
     font-style: italic;
     color: rgb(65, 105, 186);
 }
@@ -102,7 +103,7 @@ figcaption{
         grid-gap: 0 1em;
     }
     div.gallery{
-        max-width: 70em;
+        max-width: 65em;
         display: grid;
     }
 
@@ -169,7 +170,7 @@ figcaption{
         opacity: 0;
     }
     h2, h3{
-        color: rgb(113, 145, 209);
+        color: rgb(166, 186, 226);
     }    
 
     h4{
@@ -181,7 +182,7 @@ figcaption{
     }
 
     a{
-        color: rgb(113, 145, 209);
+        color: rgb(166, 186, 226);
     }
     
     nav a:hover {
@@ -212,12 +213,12 @@ figcaption{
     }
 
     button{
-        border-color: rgb(113, 145, 209);
+        border-color: rgb(166, 186, 226);
     }
 }
 
 div.gallery{
-    max-width: 40em;
+    max-width: 65em;
     margin: auto;
     padding: 0 2em 0 2em;
 }
@@ -245,7 +246,7 @@ div.gallery figcaption{
     margin: .5em 0;
     font-family: "effra", sans-serif;
     font-weight: 300;
-    font-size: medium;
+    font-size: large;
     font-style: italic;
 }
 
